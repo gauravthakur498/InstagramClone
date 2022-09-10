@@ -1,0 +1,2 @@
+2JUYnkWwjLeIwplh
+mongodb+srv://gaurav:2JUYnkWwjLeIwplh@cluster0.5fh6gvs.mongodb.net/?retryWrites=true&w=majority
